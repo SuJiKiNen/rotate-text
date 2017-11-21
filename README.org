@@ -1,0 +1,5 @@
+This a tweak of [[https://www.emacswiki.org/emacs/RotateText][Rotate text]] from emacswiki.
+
+keep it here for personal use purpose.
+
+I bind it to ~(global-set-key (kbd "C-x !") 'rotate-text-at-current-line)~.
